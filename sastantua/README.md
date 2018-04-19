@@ -1,7 +1,7 @@
-./a.out 5
 
-![alt tag](myoutput/monRendu.png)
+---** Piscine42: S A S T A N T U A  FOR VARIABLE  SIZE **-----
 
-here we have my sastantua's output  from 42 born to code rush.
-running: ./program size
-thanks
+running: ./ibtraore 5 (below size 5 mean 5 floors)
+
+![alt tag](sastantuaOutput/monRendu.png)
+
